@@ -1,1 +1,1 @@
-<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" href="https://dsc.gg/peakus" src="https://lanyard.cnrad.dev/api/857993843566968862?bg=1e2124&animated=true&idleMessage=I%20am%20wasting%20my%20time%20(sleeping)">
+<img onClick="javascript:location.replace('https://dsc.gg/peakus')" src="https://lanyard.cnrad.dev/api/857993843566968862?bg=1e2124&animated=true&idleMessage=I%20am%20wasting%20my%20time%20(sleeping)">
